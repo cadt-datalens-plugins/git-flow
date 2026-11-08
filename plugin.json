@@ -1,0 +1,15 @@
+{
+    "id": "git-flow",
+    "name": "Git 工作流",
+    "version": "1.0.0",
+    "author": "CandySweet",
+    "description": "调用系统 git 查看/操作当前仓库：变更列表、历史、当前文件历史与差异、分支列表",
+    "entry": "main.js",
+    "extensions": ["git"],
+    "license": "MIT",
+    "homepage": "https://gitee.com/cadt-datalens-plugins/git-flow",
+    "repository": "https://gitee.com/cadt-datalens-plugins/git-flow",
+    "keywords": ["git", "版本控制", "历史", "diff"],
+    "minAppVersion": "1.0.0",
+    "icon": "icon.svg"
+}
